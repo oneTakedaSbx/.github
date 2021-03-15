@@ -1,0 +1,21 @@
+# see the workflow template documentation at https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization
+
+name: build
+
+on:
+  push:
+    # $default-branch is a placeholder (variable) for a repositories default branch name 
+    # example: branches: [ $default-branch ]
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run a one-line script
+        run: echo "This is a step from the build workflow template"
