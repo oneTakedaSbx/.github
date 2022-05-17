@@ -4,9 +4,11 @@
 GitHub is a site that securely stores code, documentation, repositories, project-based discussions, & more. OneTakeda is a project in GitHub that provides enterprise standard tools & expertise to onboard your projects & accelerate your delivery.
 
 The main motivation behind this project is to align different business units with the industry standards and avoid repetitive solutions for the same set of collective problems. 
+We make sure there is never a version mismatch on your deliverables by relaying on GitHub version control features.  it's important to highlight we provide a solution that supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
+
 why would you want to reinvent the wheels, unless you plan on learning more about wheels and worse would be if you encounter a flat tire :smile: using our project will save engineers time and effort as we automate all your software workflows, Build, test, and deploy your code in a secure cloud environment. 
     
-We make sure there is never a version mismatch on your deliverables by relaying on GitHub version control features.  it's important to highlight we provide a solution that supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
+
 
   **How do I access GitHub**?
 
