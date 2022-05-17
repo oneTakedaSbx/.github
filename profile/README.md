@@ -1,18 +1,14 @@
 
 ## 🔧 OneTakeda GitHub
-What is GitHub?
-GitHub is a site for storing code, documentation, repositories, project-based discussions, & more. According to GitHub, it is "a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere." Data is securely stored in repositories, a central place for code, artifacts, & documentation with source control capabilities.
+
+GitHub is a site that securely stores code, documentation, repositories, project-based discussions, & more. OneTakeda is a project in GitHub that provides enterprise standard tools & expertise to onboard your projects & accelerate your delivery.
+
+The main motivation behind this project is to align different business units with the industry standards and avoid repetitive solutions for the same set of collective problems.
+
+why reinvent the wheels, unless you plan on learning more about wheels and worse would be if you encounter a flat tire :smile: using our project will save engineers time and effort as we automate all your software workflows, Build, test, and deploy your code in a secure cloud environment. 
+    
+We make sure there is never a version mismatch for your deliverables by relaying on GitHub version control features.  it's important to highlight we provide a solution that supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
 
 How do I access GitHub?
-Users must first create their oneTakeda GitHub account through Okta SSO. Please visit the [DevOps Visual Guides](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/DevOps_Visual_Guides.aspx) page to learn how to create your GitHub account.
 
-## &#x270d; Articles & Walkthroughs
-
-Below is a list of DevOps specific important pages:
-
-<!-- DEVOPS-PAGES-LIST:START -->
-- [DevOps @ Takeda - Home (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps)
-- [DevOps Team General Inquiry Form (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/General_Inquiry.aspx)
-- [DevOps Service Request Automation - Beta (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/DevOps-Service-Request-Automation-Beta.aspx)
-- [DevOps Capabilities Demo Repository](https://github.com/oneTakeda/devops-demo-app)
-<!-- DEVOPS-PAGES-LIST:END -->
+Users must first create their oneTakeda GitHub account through Okta SSO. Please visit this page to learn how to create your GitHub account [Github New User Access Guide](https://mytakeda.sharepoint.com/:p:/r/sites/DevOps/_layouts/15/Doc.aspx?sourcedoc=%7B20F91A70-6FB5-48D8-BB79-9009C9F16CC8%7D&file=GitHub%20New%20User%20Access%20Guide.pptx&action=edit&mobileredirect=true).
