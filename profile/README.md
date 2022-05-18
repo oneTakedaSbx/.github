@@ -2,7 +2,7 @@
 
 OneTakeda is an organization within GitHub that provides enterprise standard tools & expertise to onboard your projects & accelerate your delivery.
 
-The motivation behind this organization is to align different business units with the industry standards and avoid repetitive solutions for a set of collective problems. We make sure there is never a version mismatch on deliverables by relying on GitHub version control features. This solution also supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
+In this organization, we aim to align different business units with industry standards and avoid repetitive solutions for a set of collective problems. We utilize the Github version control features to ensure there is never a version mismatch on deliverables. This solution also supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
 
 Why reinvent the wheels unless you learn more about wheels and worse still, a flat tire :smile:
 Using our project will save engineers time and effort as we automate all your software workflows, Build, test, and deploy your code in a secure cloud environment.
