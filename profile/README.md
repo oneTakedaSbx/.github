@@ -7,4 +7,10 @@ Using our project will save engineers time and effort as we automate all your so
 
 **How do I access oneTakeda GitHub**?
 
-Users must first create their oneTakeda GitHub account through Okta SSO. Please visit this page to learn how to create your GitHub account [Github New User Access Guide](https://mytakeda.sharepoint.com/:p:/r/sites/DevOps/_layouts/15/Doc.aspx?sourcedoc=%7B20F91A70-6FB5-48D8-BB79-9009C9F16CC8%7D&file=GitHub%20New%20User%20Access%20Guide.pptx&action=edit&mobileredirect=true).
+- Firstly, Log out of any personal GitHub accounts. Delete any previously created GitHub accounts with your Takeda email (If Applicable).
+
+- Visit Takeda Okta, click ‘GitHub Enterprise Cloud’ Create user account as **FirstNameLastName**.
+
+- Complete user profile information (Display name, verify email).
+
+- After creating your user account, request to join a team or contact a team maintainer directly to be added to repositories.
