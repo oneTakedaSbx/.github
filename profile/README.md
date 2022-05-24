@@ -9,7 +9,7 @@ Using our project will save engineers time and effort as we automate all your so
 
 - Firstly, Log out of any personal GitHub accounts. Delete any previously created GitHub accounts with your Takeda email (If Applicable).
 
-- Visit Takeda Okta, click ‘GitHub Enterprise Cloud’ Create user account as **FirstNameLastName**.
+- Visit Takeda Okta, click ‘GitHub Enterprise Cloud’ and Create a user account as **FirstNameLastName**.
 
 - Complete user profile information (Display name, verify email).
 
