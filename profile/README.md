@@ -1,18 +1,16 @@
-
 ## 🔧 OneTakeda GitHub
-What is GitHub?
-GitHub is a site for storing code, documentation, repositories, project-based discussions, & more. According to GitHub, it is "a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere." Data is securely stored in repositories, a central place for code, artifacts, & documentation with source control capabilities.
 
-How do I access GitHub?
-Users must first create their oneTakeda GitHub account through Okta SSO. Please visit the [DevOps Visual Guides](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/DevOps_Visual_Guides.aspx) page to learn how to create your GitHub account.
+OneTakeda is an organization within GitHub that provides enterprise standard tools & expertise to onboard your projects & accelerate your delivery.
 
-## &#x270d; Articles & Walkthroughs
+In this organization, we aim to align different business units with industry standards and avoid repetitive solutions for a set of collective problems. We utilize the Github version control features to ensure there is never a version mismatch on deliverables. This solution also supports distributed workforce (employees, consultants, partners, etc.) which is controlled by access policies with specified permissions to users and repositories.
+Using our project will save engineers time and effort as we automate all your software workflows, Build, test, and deploy your code in a secure cloud environment.
 
-Below is a list of DevOps specific important pages:
+**How do I access oneTakeda GitHub**?
 
-<!-- DEVOPS-PAGES-LIST:START -->
-- [DevOps @ Takeda - Home (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps)
-- [DevOps Team General Inquiry Form (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/General_Inquiry.aspx)
-- [DevOps Service Request Automation - Beta (sharepoint.com)](https://mytakeda.sharepoint.com/sites/DevOps/SitePages/DevOps-Service-Request-Automation-Beta.aspx)
-- [DevOps Capabilities Demo Repository](https://github.com/oneTakeda/devops-demo-app)
-<!-- DEVOPS-PAGES-LIST:END -->
+- Firstly, Log out of any personal GitHub accounts. Delete any previously created GitHub accounts with your Takeda email (If Applicable).
+
+- Visit Takeda Okta, click ‘GitHub Enterprise Cloud’ and Create a user account as **FirstNameLastName**.
+
+- Complete user profile information (Display name, verify email).
+
+- After creating your user account, request to join a team or contact a team maintainer directly to be added to repositories.
